@@ -1,0 +1,13 @@
+{
+  "name": "attendance-automation",
+  "version": "1.0.0",
+  "main": "createAttendance.js",
+  "scripts": {
+    "createAttendance": "node createAttendance.js"
+  },
+  "dependencies": {
+    "exceljs": "^4.3.0",
+    "firebase-admin": "^11.0.0",
+    "moment-timezone": "^0.5.43"
+  }
+}
